@@ -1,0 +1,27 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.wespeaker",
+  "name": "WeSpeaker",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "Apache-2.0",
+  "compat": ">=0.1",
+  "description": "Maps a speech segment to a speaker-identity embedding vector. Uses: speaker diarization; speaker verification / matching; grouping clips by who is talking.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-wespeaker",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "speaker-embedding",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-wespeaker/releases/latest/download/embedding.onnx",
+      "modelLicense": "Apache-2.0 (WeSpeaker, ResNet34 VoxCeleb)",
+      "tags": [
+        "speaker",
+        "embedding",
+        "audio"
+      ]
+    }
+  ],
+  "files": {}
+}

@@ -1,0 +1,8 @@
+Apache-2.0
+
+This repository (the azphalt plugin manifest and packaging) is licensed under Apache-2.0.
+
+The AI model it references is a separate work under its own license:
+  Apache-2.0 (WeSpeaker, ResNet34 VoxCeleb)
+The weights are fetched from their source at install time and are not contained in this repository.
+See README.md for the model source and license.
