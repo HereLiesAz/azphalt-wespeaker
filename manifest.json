@@ -4,10 +4,10 @@
   "name": "WeSpeaker",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "compat": ">=0.1",
-  "author": "azphalt",
   "description": "Maps a speech segment to a speaker-identity embedding vector. Uses: speaker diarization; speaker verification / matching; grouping clips by who is talking.",
+  "author": "HereLiesAz",
   "homepage": "https://github.com/HereLiesAz/azphalt-wespeaker",
   "assets": [
     {
