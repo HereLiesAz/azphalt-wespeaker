@@ -1,15 +1,13 @@
-WeSpeaker — third-party model attribution
+WeSpeaker — third-party attribution
 
-This package's own manifest and build tooling are MIT (see LICENSE).
+Model weights distributed or referenced by this package are NOT the work of
+HereLiesAz and are not licensed by HereLiesAz.
 
-The model weights this extension distributes are NOT covered by that licence.
-They are the work of their respective authors and remain under their own terms:
-
-- speaker-embedding: Apache-2.0 (WeSpeaker, ResNet34 VoxCeleb)
+Declared upstream terms:
+  - speaker-embedding: Apache-2.0 (WeSpeaker, ResNet34 VoxCeleb)
 
 Retrieved from:
-  https://huggingface.co/onnx-community/wespeaker-voxceleb-resnet34-LM/resolve/main/embedding.onnx
+  https://huggingface.co/onnx-community/wespeaker-voxceleb-resnet34-LM
 
-Redistribution of those weights is subject to the terms above, including any
-attribution and notice requirements. Consult each upstream project for the
-authoritative licence text before redistributing.
+The upstream repository declares: CC-BY-4.0. Redistribution is subject to that
+licence, including any attribution and notice requirements.

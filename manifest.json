@@ -4,7 +4,7 @@
   "name": "WeSpeaker",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "CC-BY-4.0",
   "compat": ">=0.1",
   "description": "Maps a speech segment to a speaker-identity embedding vector. Uses: speaker diarization; speaker verification / matching; grouping clips by who is talking.",
   "author": "HereLiesAz",
